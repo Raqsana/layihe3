@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+.basliq{
+    height: 50px;
+width: 1152px;
+margin-left: 0px;
+margin-top: 0px;
+border-radius: 0px;
+background: rgba(245, 245, 246, 1);
+
+}
+img{
+    height: 23px;
+width: 89px;
+margin-left: 100px;
+margin-top: 15px;
+border-radius: 0px;
+
+}
+
+.one{
+    height: 19px;
+width: 44px;
+margin-left: 64px;
+margin-top: 0px;
+border-radius: nullpx;
+font-family: Roboto;
+font-size: 11px;
+font-weight: 500;
+line-height: 13px;
+letter-spacing: 0.06em;
+text-align: left;
+
+}
